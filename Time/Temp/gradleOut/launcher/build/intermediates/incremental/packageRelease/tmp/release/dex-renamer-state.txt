@@ -1,0 +1,4 @@
+#Mon Jun 20 22:57:24 YEKT 2022
+base.0=E\:\\Time\\Time\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
